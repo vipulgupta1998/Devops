@@ -1,3 +1,4 @@
 *This is devops assignment.
 Part1 -> GIT
 Part2 -> Jenkins
+devops == devlopment+operations
